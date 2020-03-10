@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "Angular pipe for memoize function execution in the template",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "build": "ng-packagr -p package.json"
   },
   "maintainers": [
     "Artem Lanovyy"
